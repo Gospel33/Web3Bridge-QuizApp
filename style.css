@@ -437,7 +437,7 @@ footer .next_btn:hover{
     }
 
     .info_box{
-        height: 360px;
+        height: 390px;
         top: 25%;
     }
 
@@ -454,7 +454,7 @@ footer .next_btn:hover{
     }
 
     .info_box{
-        height: 400px;
+        height: 430px;
     }
 
     .start p{
@@ -465,6 +465,7 @@ footer .next_btn:hover{
         width: 330px;
         height: 580px;
         top: 6%;
+        left: 15%;
     }
 
     .quiz_box footer{
