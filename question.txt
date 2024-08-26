@@ -1,0 +1,514 @@
+Sure! Here are 50 multiple-choice questions for JavaScript beginners:
+
+1. **What is the correct syntax for referring to an external script called "script.js"?**
+   - A) `<script href="script.js">`
+   - B) `<script src="script.js">`
+   - C) `<script ref="script.js">`
+   - D) `<script link="script.js">`
+
+2. **Which method is used to display a message in the console?**
+   - A) `alert()`
+   - B) `console.log()`
+   - C) `print()`
+   - D) `log.console()`
+
+3. **What is the correct way to declare a variable in JavaScript?**
+   - A) `var x = 5;`
+   - B) `variable x = 5;`
+   - C) `int x = 5;`
+   - D) `let x := 5;`
+
+4. **How do you create a function in JavaScript?**
+   - A) `function myFunction() {}`
+   - B) `create function myFunction() {}`
+   - C) `def myFunction() {}`
+   - D) `function: myFunction() {}`
+
+5. **What is the output of `typeof "hello"`?**
+   - A) `string`
+   - B) `text`
+   - C) `object`
+   - D) `undefined`
+
+6. **How do you add a comment in JavaScript?**
+   - A) `<!-- This is a comment -->`
+   - B) `/* This is a comment */`
+   - C) `// This is a comment`
+   - D) `# This is a comment`
+
+7. **Which operator is used to assign a value to a variable?**
+   - A) `=`
+   - B) `==`
+   - C) `===`
+   - D) `:=`
+
+8. **What will `console.log(5 + '5')` display?**
+   - A) `10`
+   - B) `55`
+   - C) `Error`
+   - D) `NaN`
+
+9. **Which of the following is a JavaScript data type?**
+   - A) `String`
+   - B) `Integer`
+   - C) `Float`
+   - D) `Number`
+
+10. **How do you write an if statement in JavaScript?**
+    - A) `if (condition) { // code }`
+    - B) `if condition { // code }`
+    - C) `if (condition) // code`
+    - D) `if (condition) then { // code }`
+
+11. **What will `3 == '3'` return?**
+    - A) `true`
+    - B) `false`
+    - C) `undefined`
+    - D) `NaN`
+
+12. **Which method removes the last element from an array?**
+    - A) `pop()`
+    - B) `shift()`
+    - C) `slice()`
+    - D) `splice()`
+
+13. **What is the result of `typeof NaN`?**
+    - A) `number`
+    - B) `NaN`
+    - C) `undefined`
+    - D) `object`
+
+14. **Which of the following is not a valid variable name in JavaScript?**
+    - A) `myVar`
+    - B) `_myVar`
+    - C) `2myVar`
+    - D) `$myVar`
+
+15. **What does `console.log(!!"false")` output?**
+    - A) `true`
+    - B) `false`
+    - C) `undefined`
+    - D) `NaN`
+
+16. **How can you convert a string to a number in JavaScript?**
+    - A) `parseInt()`
+    - B) `toNumber()`
+    - C) `convert()`
+    - D) `Number()`
+
+17. **Which keyword is used to create a constant variable in JavaScript?**
+    - A) `const`
+    - B) `let`
+    - C) `var`
+    - D) `define`
+
+18. **What does the `Array.isArray([])` method return?**
+    - A) `true`
+    - B) `false`
+    - C) `undefined`
+    - D) `NaN`
+
+19. **How do you access the first element in an array named `arr`?**
+    - A) `arr[0]`
+    - B) `arr.first()`
+    - C) `arr.get(1)`
+    - D) `arr.firstElement()`
+
+20. **What is the purpose of the `return` statement in a function?**
+    - A) To exit the function
+    - B) To return a value from the function
+    - C) To create a new function
+    - D) To call another function
+
+21. **Which method adds one or more elements to the end of an array?**
+    - A) `push()`
+    - B) `pop()`
+    - C) `shift()`
+    - D) `unshift()`
+
+22. **What is the output of `5 == '5'`?**
+    - A) `true`
+    - B) `false`
+    - C) `undefined`
+    - D) `NaN`
+
+23. **How do you declare a JavaScript object?**
+    - A) `var obj = {};`
+    - B) `var obj = [];`
+    - C) `var obj = () => {};`
+    - D) `var obj = "object";`
+
+24. **What will `console.log(2 + '2')` display?**
+    - A) `4`
+    - B) `22`
+    - C) `Error`
+    - D) `NaN`
+
+25. **Which of the following will not create a new JavaScript object?**
+    - A) `new Object()`
+    - B) `{}`
+    - C) `Object.create()`
+    - D) `Object.new()`
+
+26. **What is the result of `3 * '3'`?**
+    - A) `9`
+    - B) `33`
+    - C) `Error`
+    - D) `NaN`
+
+27. **How do you check if a variable `x` is an integer?**
+    - A) `Number.isInteger(x)`
+    - B) `isInteger(x)`
+    - C) `typeof x === 'integer'`
+    - D) `x.isInteger()`
+
+28. **Which of the following is used to handle exceptions in JavaScript?**
+    - A) `try...catch`
+    - B) `throw...catch`
+    - C) `exception...handle`
+    - D) `error...catch`
+
+29. **How do you concatenate two strings in JavaScript?**
+    - A) `str1 + str2`
+    - B) `str1.append(str2)`
+    - C) `concat(str1, str2)`
+    - D) `str1.merge(str2)`
+
+30. **What is the purpose of the `typeof` operator?**
+    - A) To determine the data type of a variable
+    - B) To convert a variable to a different type
+    - C) To create a new variable type
+    - D) To test if a variable is defined
+
+31. **How do you access an object's property named `name`?**
+    - A) `obj.name`
+    - B) `obj[name]`
+    - C) `obj->name`
+    - D) `obj.get('name')`
+
+32. **Which of the following is used to loop through elements of an array?**
+    - A) `for...of`
+    - B) `for...in`
+    - C) `while`
+    - D) `do...while`
+
+33. **What does `parseFloat('3.14')` return?**
+    - A) `3.14`
+    - B) `3`
+    - C) `'3.14'`
+    - D) `NaN`
+
+34. **How do you convert a number to a string in JavaScript?**
+    - A) `num.toString()`
+    - B) `String(num)`
+    - C) `num.toStr()`
+    - D) `convert(num)`
+
+35. **What will `console.log(10 / '2')` output?**
+    - A) `5`
+    - B) `102`
+    - C) `NaN`
+    - D) `Error`
+
+36. **Which function can be used to get the length of an array?**
+    - A) `arr.length`
+    - B) `arr.size()`
+    - C) `arr.getLength()`
+    - D) `arr.count()`
+
+37. **How do you add a key-value pair to an object?**
+    - A) `obj.key = value;`
+    - B) `obj.add(key, value);`
+    - C) `obj.set(key, value);`
+    - D) `obj.put(key, value);`
+
+38. **What is the default value of an uninitialized variable?**
+    - A) `undefined`
+    - B) `null`
+    - C) `0`
+    - D) `NaN`
+
+39. **Which statement will stop a loop?**
+    - A) `break`
+    - B) `stop`
+    - C) `exit`
+    - D) `end`
+
+40. **How do you
+
+ compare two values for equality, including type?**
+    - A) `===`
+    - B) `==`
+    - C) `equals`
+    - D) `!=`
+
+41. **What does `Math.round(2.5)` return?**
+    - A) `3`
+    - B) `2`
+    - C) `2.5`
+    - D) `4`
+
+42. **Which keyword is used to create a new object?**
+    - A) `new`
+    - B) `create`
+    - C) `object`
+    - D) `make`
+
+43. **How do you handle asynchronous code in JavaScript?**
+    - A) `async/await`
+    - B) `defer/await`
+    - C) `callback/await`
+    - D) `promise/async`
+
+44. **What is the output of `true + 1`?**
+    - A) `2`
+    - B) `true1`
+    - C) `undefined`
+    - D) `NaN`
+
+45. **What will `console.log('' + 1 + 0)` display?**
+    - A) `10`
+    - B) `01`
+    - C) `10`
+    - D) `NaN`
+
+46. **Which method converts a string into an array of characters?**
+    - A) `split('')`
+    - B) `toArray()`
+    - C) `charArray()`
+    - D) `convert()`
+
+47. **What is the result of `0 == false`?**
+    - A) `true`
+    - B) `false`
+    - C) `undefined`
+    - D) `NaN`
+
+48. **Which function is used to remove whitespace from the beginning and end of a string?**
+    - A) `trim()`
+    - B) `strip()`
+    - C) `clean()`
+    - D) `remove()`
+
+49. **How do you declare a constant variable in JavaScript?**
+    - A) `const`
+    - B) `var`
+    - C) `let`
+    - D) `static`
+
+50. **What will `console.log(5 + 2 + '3')` output?**
+    - A) `73`
+    - B) `53`
+    - C) `Error`
+    - D) `NaN`
+
+These questions cover basic concepts, syntax, and common operations in JavaScript. Let me know if you need explanations for any of the answers!
+
+
+
+Answers and Explanation for the answers
+Certainly! Here’s a detailed explanation for each question and its correct answer:
+
+1. **What is the correct syntax for referring to an external script called "script.js"?**
+   - **B) `<script src="script.js">`**
+     - **Explanation:** The `src` attribute specifies the path to the external script file.
+
+2. **Which method is used to display a message in the console?**
+   - **B) `console.log()`**
+     - **Explanation:** `console.log()` prints messages to the console. `alert()` displays a popup message.
+
+3. **What is the correct way to declare a variable in JavaScript?**
+   - **A) `var x = 5;`**
+     - **Explanation:** `var`, `let`, and `const` are used to declare variables. `int` and `variable` are not valid in JavaScript.
+
+4. **How do you create a function in JavaScript?**
+   - **A) `function myFunction() {}`**
+     - **Explanation:** This is the correct syntax for declaring a function in JavaScript. Other options are incorrect.
+
+5. **What is the output of `typeof "hello"`?**
+   - **A) `string`**
+     - **Explanation:** `typeof` returns the type of a variable. `"hello"` is a string.
+
+6. **How do you add a comment in JavaScript?**
+   - **C) `// This is a comment`**
+     - **Explanation:** `//` is used for single-line comments, and `/* */` is used for multi-line comments.
+
+7. **Which operator is used to assign a value to a variable?**
+   - **A) `=`**
+     - **Explanation:** The `=` operator is used for assignment. `==` and `===` are comparison operators.
+
+8. **What will `console.log(5 + '5')` display?**
+   - **B) `55`**
+     - **Explanation:** The `+` operator with a string and a number results in string concatenation. So, `5 + '5'` becomes `'55'`.
+
+9. **Which of the following is a JavaScript data type?**
+   - **D) `Number`**
+     - **Explanation:** JavaScript has `Number`, `String`, `Boolean`, `Object`, etc. `Integer` and `Float` are not distinct types.
+
+10. **How do you write an if statement in JavaScript?**
+    - **A) `if (condition) { // code }`**
+      - **Explanation:** This is the correct syntax for an if statement in JavaScript.
+
+11. **What will `3 == '3'` return?**
+    - **A) `true`**
+      - **Explanation:** The `==` operator performs type coercion, so `3 == '3'` is true.
+
+12. **Which method removes the last element from an array?**
+    - **A) `pop()`**
+      - **Explanation:** `pop()` removes and returns the last element of an array.
+
+13. **What is the result of `typeof NaN`?**
+    - **A) `number`**
+      - **Explanation:** `NaN` stands for "Not-a-Number," but its type is still `number`.
+
+14. **Which of the following is not a valid variable name in JavaScript?**
+    - **C) `2myVar`**
+      - **Explanation:** Variable names cannot start with a number.
+
+15. **What does `console.log(!!"false")` output?**
+    - **A) `true`**
+      - **Explanation:** `!!` converts any value to a boolean. `"false"` is a truthy value, so `!!"false"` is `true`.
+
+16. **How can you convert a string to a number in JavaScript?**
+    - **A) `parseInt()`**
+      - **Explanation:** `parseInt()` and `Number()` can convert strings to numbers. `toNumber()` is not valid.
+
+17. **Which keyword is used to create a constant variable in JavaScript?**
+    - **A) `const`**
+      - **Explanation:** `const` creates a constant variable that cannot be reassigned.
+
+18. **What does the `Array.isArray([])` method return?**
+    - **A) `true`**
+      - **Explanation:** `Array.isArray()` checks if the argument is an array.
+
+19. **How do you access the first element in an array named `arr`?**
+    - **A) `arr[0]`**
+      - **Explanation:** Array indexing starts at 0.
+
+20. **What is the purpose of the `return` statement in a function?**
+    - **B) To return a value from the function**
+      - **Explanation:** `return` exits the function and optionally returns a value.
+
+21. **Which method adds one or more elements to the end of an array?**
+    - **A) `push()`**
+      - **Explanation:** `push()` adds elements to the end of an array.
+
+22. **What is the output of `5 == '5'`?**
+    - **A) `true`**
+      - **Explanation:** As with question 11, `==` performs type coercion.
+
+23. **How do you declare a JavaScript object?**
+    - **A) `var obj = {};`**
+      - **Explanation:** `{}` creates an empty object. `[]` creates an array.
+
+24. **What will `console.log(2 + '2')` display?**
+    - **B) `22`**
+      - **Explanation:** `+` with a string results in concatenation, so `2 + '2'` is `'22'`.
+
+25. **Which of the following will not create a new JavaScript object?**
+    - **D) `Object.new()`**
+      - **Explanation:** `Object.new()` is not valid. `new Object()`, `{}`, and `Object.create()` are valid ways to create objects.
+
+26. **What is the result of `3 * '3'`?**
+    - **A) `9`**
+      - **Explanation:** Multiplying a number by a string coerces the string to a number, resulting in `9`.
+
+27. **How do you check if a variable `x` is an integer?**
+    - **A) `Number.isInteger(x)`**
+      - **Explanation:** `Number.isInteger()` checks if a value is an integer.
+
+28. **Which of the following is used to handle exceptions in JavaScript?**
+    - **A) `try...catch`**
+      - **Explanation:** `try...catch` is used for exception handling.
+
+29. **How do you concatenate two strings in JavaScript?**
+    - **A) `str1 + str2`**
+      - **Explanation:** The `+` operator concatenates strings.
+
+30. **What is the purpose of the `typeof` operator?**
+    - **A) To determine the data type of a variable**
+      - **Explanation:** `typeof` returns the type of the variable.
+
+31. **How do you access an object's property named `name`?**
+    - **A) `obj.name`**
+      - **Explanation:** `obj.name` accesses the property `name` of the object `obj`.
+
+32. **Which of the following is used to loop through elements of an array?**
+    - **A) `for...of`**
+      - **Explanation:** `for...of` iterates over iterable objects like arrays. `for...in` is used for object properties.
+
+33. **What does `parseFloat('3.14')` return?**
+    - **A) `3.14`**
+      - **Explanation:** `parseFloat()` converts a string to a floating-point number.
+
+34. **How do you convert a number to a string in JavaScript?**
+    - **A) `num.toString()`**
+      - **Explanation:** `num.toString()` and `String(num)` convert a number to a string.
+
+35. **What will `console.log(10 / '2')` output?**
+    - **A) `5`**
+      - **Explanation:** `'2'` is coerced to a number, so `10 / 2` is `5`.
+
+36. **Which function can be used to get the length of an array?**
+    - **A) `arr.length`**
+      - **Explanation:** The `length` property returns the number of elements in an array.
+
+37. **How do you add a key-value pair to an object?**
+    - **A) `obj.key = value;`**
+      - **Explanation:** This syntax adds or updates a property on the object.
+
+38. **What is the default value of an uninitialized variable?**
+    - **A) `undefined`**
+      - **Explanation:** Variables that are declared but not initialized are `undefined`.
+
+39. **Which statement will stop a loop?**
+    - **A) `break`**
+      - **Explanation:** `break` exits the loop immediately.
+
+40. **How do you compare two values for equality, including type?**
+    - **A) `===`**
+      - **Explanation:** `===` checks for both value and type equality.
+
+41. **What does `Math.round(2.5)` return?**
+    - **A) `3`**
+      - **Explanation:** `Math.round()` rounds to the nearest integer. `2.5` rounds up to `3`.
+
+42. **Which keyword is used to create a new object?**
+    - **A) `new`**
+      - **Explanation:** The `new` keyword is
+
+ used with constructors to create new objects.
+
+43. **How do you handle asynchronous code in JavaScript?**
+    - **A) `async/await`**
+      - **Explanation:** `async/await` simplifies working with asynchronous code.
+
+44. **What is the output of `true + 1`?**
+    - **A) `2`**
+      - **Explanation:** `true` is coerced to `1`, so `true + 1` equals `2`.
+
+45. **What will `console.log('' + 1 + 0)` display?**
+    - **B) `10`**
+      - **Explanation:** `'' + 1` results in `'1'`, and `'1' + 0` results in `'10'`.
+
+46. **Which method converts a string into an array of characters?**
+    - **A) `split('')`**
+      - **Explanation:** `split('')` splits a string into an array of characters.
+
+47. **What is the result of `0 == false`?**
+    - **A) `true`**
+      - **Explanation:** `0` and `false` are considered equal in type coercion.
+
+48. **Which function is used to remove whitespace from the beginning and end of a string?**
+    - **A) `trim()`**
+      - **Explanation:** `trim()` removes whitespace from both ends of a string.
+
+49. **How do you declare a constant variable in JavaScript?**
+    - **A) `const`**
+      - **Explanation:** `const` is used for variables that should not be reassigned.
+
+50. **What will `console.log(5 + 2 + '3')` output?**
+    - **A) `73`**
+      - **Explanation:** `5 + 2` results in `7`, and `7 + '3'` results in `'73'`.
+
+Feel free to ask if you need further clarification on any of these points!

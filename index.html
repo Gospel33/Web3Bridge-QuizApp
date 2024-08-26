@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz App</title>
+    <link rel="stylesheet" href="./style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css"integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg=="crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+    <div class="start">
+        <h3>Welcome</h3>
+        <p>This test prepared has been prepared for learning JavaScript (JS) having various sections ranging from the basic to the advanced taking into consideration your individual experience level</p>
+        <div class="start_btn"><button>Start Quiz</button></div>
+    </div>
+
+    <div class="info_box">
+        <div class="info_title">
+            <span>Rules for the Quiz</span>
+        </div>
+        <div class="info_list">
+            <div class="info">1. You have only <span>15 seconds</span> for each question.</div>
+            <div class="info">2. You have 50 questions to answer</div>
+            <div class="info">3. Once you select an option, you can't choose another.</div>
+            <div class="info">4. You can't select an option once the time has elasped.</div>
+            <div class="info">5. You can't exit the quiz while answering.</div>
+            <div class="info">6. Each question answered correctly grants you a point</div>
+        </div>
+        <div class="buttons">
+            <button class="quit">Exit Quiz</button>
+            <button class="restart">Continue</button>
+        </div>
+    </div>
+
+    <div class="quiz_box">
+        <header>
+            <div class="title">JavaScript Knowledge</div>
+            <div class="timer">
+                <div class="time_text">Time Left</div>
+                <div class="timer_sec">15</div>
+            </div>
+            <div class="time_line"></div>
+        </header>
+
+        <section>
+            <div class="quiz_text">
+                <!-- <span>What is the correct syntax for referring to an external script called "script.js"?</span> -->
+            </div>
+            <div class="option_list">
+                <!-- <div class="options">
+                    <span>script href="script.js"</span>
+                    <div class="icon cross"><i class="fas fa-times"></i></div>
+                </div>
+                <div class="options">
+                    <span>script src="script.js"</span>
+                    <div class="icon tick"><i class="fas fa-check"></i></div>
+                </div>
+                <div class="options">
+                    <span>script ref="script.js"</span>
+                </div>
+                <div class="options">
+                    <span>script link="script.js"</span>
+                </div> -->
+            </div>
+        </section>
+
+        <footer>
+            <div class="total_que">
+                <!-- <span><p>1</p>of<p>50</p>Questions</span> -->
+            </div>
+            <button class="next_btn">Next Que</button>
+        </footer>
+    </div>
+
+    <div class="result_box">
+        <div class="icon">
+            <i class="fas fa-crown"></i>
+        </div>
+
+        <div class="complete_text">You've Completed the Quiz</div>
+        <div class="score_text">
+            <!-- <span>and sorry, You only got <p>33</p> out of <p>50</p></span> -->
+        </div>
+
+        <div class="buttons">
+            <button class="restart">Restart Quiz</button>
+            <button class="quit">Quit Quiz</button>
+        </div>
+    </div>
+
+    <script src="./app.js"></script>
+    <script src="./questions.js"></script>
+</body>
+</html>
