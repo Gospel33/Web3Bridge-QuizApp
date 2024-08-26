@@ -301,7 +301,7 @@ let questions = [
     {
         numb: 26,
         question: "What is the result of `3 * '3'`?",
-        answer: "script src= script.js",
+        answer: "9",
         options: [
             "Error",
             "33",
@@ -351,7 +351,7 @@ let questions = [
         question: "What is the purpose of the `typeof` operator?",
         answer: "To determine the data type of a variable",
         options: [
-            "To determine the data type of a variables",
+            "To determine the data type of a variable",
             "To convert a variable to a different type",
             "To create a new variable type",
             "To test if a variable is defined"
@@ -541,7 +541,7 @@ let questions = [
     {
         numb: 46,
         question: "Which method converts a string into an array of characters?",
-        answer: "spli('')",
+        answer: "split('')",
         options: [
             "split('')",
             "toArray()",
